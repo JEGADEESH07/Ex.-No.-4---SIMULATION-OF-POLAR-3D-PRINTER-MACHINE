@@ -32,6 +32,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![EX44](https://github.com/JEGADEESH07/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113497131/3518da8e-7548-4767-9c1f-529a5c1f8916)
 
 ### Name: JEGADEESH S
 ### Register Number: 212222230055
